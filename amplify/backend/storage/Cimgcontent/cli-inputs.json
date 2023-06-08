@@ -1,0 +1,12 @@
+{
+  "resourceName": "Cimgcontent",
+  "policyUUID": "f2737333",
+  "bucketName": "cimgcontet1234",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
